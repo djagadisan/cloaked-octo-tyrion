@@ -1,0 +1,15 @@
+[test-infra]
+user=sam
+passwd=nectar
+name=admin
+url=https://keystone.test.rc.nectar.org.au:5000/v2.0/
+[production]
+user=sam
+passwd=ODFhY2Q2NjAwOGNjOGMz
+name=sam
+url=https://keystone.rc.nectar.org.au:35357/v2.0/
+[nectar-tenant]
+user=devendran.jagadisan@unimelb.edu.au
+passwd=N2ZhNTRhNTRkMDE0ODY4
+name=nectar
+url=https://keystone.rc.nectar.org.au:35357/v2.0/
